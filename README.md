@@ -37,38 +37,24 @@ def OnRun():
 ## Output
 ### 1. Generic Articulated Robot
 
+![Screenshot 2023-12-31 171107](https://github.com/feryjfgkuyfgewjfgew/Movement-of-Robot-Joints/assets/150319377/c7d1b8a6-6253-4f7e-97e9-2ba3744cb929)
 
 ### 2. robot.driveJoints(0,0,0,0,0,0)
-</br>
-</br>
-</br>
-</br>
+
+![Screenshot 2023-12-31 171116](https://github.com/feryjfgkuyfgewjfgew/Movement-of-Robot-Joints/assets/150319377/26137577-65db-482f-95c1-cd0313aa0e7f)
 
 ### 3. Movement of Joint1
-</br>
-</br>
-</br>
-</br>
+
+![Screenshot 2023-12-31 171127](https://github.com/feryjfgkuyfgewjfgew/Movement-of-Robot-Joints/assets/150319377/0d4e387d-d1a2-42c6-9059-a4b8788218dc)
 
 ### 3. Movement of Joint2
-</br>
-</br>
-</br>
-</br>
+
+![Screenshot 2023-12-31 171135](https://github.com/feryjfgkuyfgewjfgew/Movement-of-Robot-Joints/assets/150319377/b3d685df-5338-4a8e-a719-601a0e8da61d)
 
 ### 3. Movement of Joint3
-</br>
-</br>
-</br>
-</br>
+
+![Screenshot 2023-12-31 171143](https://github.com/feryjfgkuyfgewjfgew/Movement-of-Robot-Joints/assets/150319377/077bcdf8-4ddd-4ba2-977b-da92e8f1fb52)
+
 
 ## Result 
 Thus the different robots joints are moved with the help of python list.
-
-![Alt text](<Screenshot 2023-12-31 171116.png>)
-
-![Alt text](<Screenshot 2023-12-31 171127.png>)
-
-![Alt text](<Screenshot 2023-12-31 171143.png>)
-
-![Alt text](<Screenshot 2023-12-31 171135.png>)
